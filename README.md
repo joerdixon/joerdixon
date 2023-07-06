@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi there 👋
+
+## My name is Joe and I love to code while creating interesting and useful experiences.
+
 
 <!--
 **joerdixon/joerdixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

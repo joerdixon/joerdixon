@@ -6,6 +6,12 @@
 <!--
 **joerdixon/joerdixon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+TODO: Add:
+Readme Stats
+Small Game
+Top Languages
+Badges
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
